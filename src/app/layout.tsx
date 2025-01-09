@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Community Website",
-  description: "Website for the community",
+  description: "Discover the rich heritage, vibrant culture and inspiring stories of your community",
 };
 
 export default function RootLayout({
