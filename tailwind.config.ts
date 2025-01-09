@@ -13,6 +13,11 @@ export default {
         foreground: "var(--foreground)",
       },
     },
+    colors:{
+      'standard':'#2387c0',
+      // 'standarddark':'#663f2c',
+      // 'backdark':'rgb(36,36,36)'
+    }
   },
   plugins: [],
 } satisfies Config;
