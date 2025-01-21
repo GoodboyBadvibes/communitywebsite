@@ -1,0 +1,33 @@
+.news{
+padding-top: 200px;
+padding-bottom: 200px;
+}
+.newsPic{
+  padding: 20px;
+  margin-bottom: 10px;
+  box-shadow: 0 10px 15px 0 #97979736;
+}
+.header{
+  padding-bottom: 50px;
+}
+.head{
+  margin-bottom: 20px;
+}
+.title{
+  font-size: 18px;
+  font-weight: 400;
+}
+.date{
+  font-size: 14px;
+  font-weight: 600;
+}
+.content{
+  font-size: 20px;
+  font-weight: 500;
+}
+.card{
+  /* width: 400px; */
+}
+.cardList{
+  gap: 120px;
+}

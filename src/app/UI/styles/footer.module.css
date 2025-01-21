@@ -1,0 +1,79 @@
+.footer{
+  background-image: linear-gradient(to bottom right, #474747, #222222);
+  padding-top: 300px;
+  margin-top: 300px;
+  padding-bottom: 100px;
+  color: white;
+  gap: 150px;
+}
+.header1{
+  font-size: 31px;
+  font-weight: 600;
+  line-height: 37.2px;
+  padding-bottom: 25px;
+}
+.header2{
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 23.44px;
+  padding-bottom: 30px;
+}
+.header3{
+  font-size: 25px;
+  font-weight: 600;
+  /* line-height: 23.44px; */
+  padding-bottom: 15px;
+}
+.sub{
+  padding-bottom: 30px;
+}
+.compAndMore{
+   gap: 100px;
+}
+.logos{
+  gap: 100px;
+}
+.logos *{
+  padding: 10px;
+}
+.footerCard{
+  background-image: linear-gradient(to bottom right, #474747, #222222);
+  padding-top: 50px;
+  padding-bottom: 150px;
+  width: 70%;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  /* gap: 100px; */
+}
+.footerCardTxt{
+  font-size: 20px;
+  width:  55%;
+  /* background-color: blue; */
+}
+.imgCard{
+  /* padding-bottom: 200px; */
+  padding-right: 200px;
+}
+.floatTitleCard{
+  background-color: white;
+  padding: 10px;
+  color: black;
+  top: 70%;
+  left: 30%;
+  width: 60%;
+  /* margin-left: 100px; */
+  /* z-index: 9999px; */
+}
+.quoteIcon{
+  font-size: 45px;
+  padding:0 25px ;
+  background-color: white;
+  border-radius: 9999px;
+  width: fit-content;
+  margin: auto;
+  margin-top: -40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

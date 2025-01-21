@@ -1,0 +1,20 @@
+.sub2{
+  font-size: 13px;
+  font-weight: 300;
+}
+.title2{
+  font-size: 25px;
+  font-weight: 300;
+}
+.cardFooter{
+  padding: 30px;
+}
+.cardList{
+  gap: 20px;
+}
+.card{
+  box-shadow: 0.5px 0.5px 10px rgba(0, 0, 0, 0.041) ;
+}
+.card:hover{
+  box-shadow: 0.5px 0.5px 10px rgba(0, 0, 0, 0.115) ;
+}

@@ -1,0 +1,22 @@
+.button{
+  padding: 20px 40px 20px 40px;
+  text-align: center;
+  width: fit-content;
+  border-radius: 5px;
+  transition: all 0.3s;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+  color: white;
+  box-shadow: 0 10px 15px 0 #01739952  ;
+}
+.button:hover{
+  padding: 19px 39px 19px 39px;
+  border-radius: 5px;
+}
+.gradient{
+  background-image: linear-gradient(to right, #60BBEE, #0A72AD) ;
+}
+.gradient :hover{
+  background-image: linear-gradient(to right, #54a6d6, #095986) ;
+}

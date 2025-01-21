@@ -15,6 +15,7 @@ export default {
     },
     colors:{
       'standard':'#2387c0',
+      'offWhite':'#F6F6F6D3',
       // 'standarddark':'#663f2c',
       // 'backdark':'rgb(36,36,36)'
     }

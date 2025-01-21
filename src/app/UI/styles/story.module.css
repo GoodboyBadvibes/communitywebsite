@@ -1,0 +1,13 @@
+.story{
+  padding-top: 150px;
+  /* gap: 450px; */
+}
+.sub{
+  padding-top: 30px;
+  padding-bottom: 75px;
+  width: 80%;
+}
+.card{
+  padding: 20px;
+  box-shadow: 0 10px 15px 0 #9797972d;
+}

@@ -1,0 +1,35 @@
+.cardList{
+  margin-top: 70px;
+  margin-bottom: 70px;
+  gap: 25px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+.card{
+  /* background-image: url('/projectpic.png'); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 350px 20px 20px 20px;
+  display: flex;
+  align-items: end;
+  justify-content: center;
+}
+.label{
+  background-color: white;
+  padding: 10px;
+  gap: 25px;
+}
+.title{
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  /* width: 70%; */
+}
+.sub{
+  font-size: 12;
+  font-weight: 500;
+  line-height: 18px;
+}
+.header{
+  /* p */
+}

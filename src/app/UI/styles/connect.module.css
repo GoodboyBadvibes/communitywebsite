@@ -1,0 +1,33 @@
+.outerConnect{
+  padding-top: 150px;
+}
+.innerConnect{
+  width: 80%;
+  margin: auto;
+  gap: 185px;
+}
+.sub{
+  padding-top: 30px;
+  padding-bottom: 75px;
+  width: 80%;
+}
+.card{
+  box-shadow: 0 10px 15px 0 #9797972d;
+}
+.flyCard{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  background-image: linear-gradient(to bottom right, #474747, #222222);
+  box-shadow: 0 10px 15px 0 #9797972d;
+  color: white;
+  justify-items: center;
+  padding: 32.5px;
+  width: 294px;
+}
+.flyCardTitle{
+  font-size: 25px;
+  font-weight: 600;
+  padding: 15px 0 15px 0;
+}
